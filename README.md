@@ -3,7 +3,7 @@ A collection and list of of "always free" and free tier cloud ressources like in
 
 # Contributing
 
-[Please refer to the contributing guide for details](CONTRIBUTING.md).
+[Please refer to the contribution guide for details](CONTRIBUTING.md).
 
 
 
